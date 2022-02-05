@@ -42,13 +42,66 @@ Monaco, James. _How to Read a Film: Movies, Media, Multimedia: Language, History
 Grading
 -------
 
-| activities | percentages |
-| --- | --- |
-| Participation in Class Discussion and Submission of 10 Brief Written Responses | 25% |
-| First Essay (500-750 words) | 15% |
-| Second Essay (750-1000 words) | 20% |
-| One Oral Presentation | 15% |
-| Final Examination | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation in Class Discussion and Submission of 10 Brief Written Responses
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First Essay (500-750 words)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second Essay (750-1000 words)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One Oral Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Examination
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 To receive a passing grade for this course students must meet all course requirements.
